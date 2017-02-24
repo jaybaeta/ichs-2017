@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2499.9998"
@@ -18,6 +19,18 @@
    sodipodi:docname="jumbotron.svg">
   <defs
      id="defs4984">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5198">
+      <stop
+         style="stop-color:#acd6d9;stop-opacity:1"
+         offset="0"
+         id="stop5200" />
+      <stop
+         style="stop-color:#78adb1;stop-opacity:1"
+         offset="1"
+         id="stop5202" />
+    </linearGradient>
     <pattern
        patternTransform="matrix(10,0,0,10,0,80)"
        patternUnits="userSpaceOnUse"
@@ -470,6 +483,17 @@
          id="path18"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5198"
+       id="radialGradient5204"
+       cx="9855.4238"
+       cy="7370.8618"
+       fx="9855.4238"
+       fy="7370.8618"
+       r="16811.231"
+       gradientTransform="matrix(1.7810507,-0.03902958,0.03453739,1.5760579,-7952.1549,-3861.3894)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -479,8 +503,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1153.8899"
-     inkscape:cy="453.65236"
+     inkscape:cx="525.14958"
+     inkscape:cy="117.06792"
      inkscape:document-units="px"
      inkscape:current-layer="g6725"
      showgrid="false"
@@ -520,7 +544,7 @@
            transform="matrix(0.48391888,0,0,0.48391888,3366.0465,521.56855)">
           <path
              d="m 26666.654,-0.0030211 -33622.4611,0 0,14741.7300211 33622.4611,0 0,-14741.7300211"
-             style="fill:#acc3b5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:url(#radialGradient5204);fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path14"
              inkscape:connector-curvature="0" />
           <g
