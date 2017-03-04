@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient5198">
       <stop
-         style="stop-color:#c4e2e4;stop-opacity:1"
+         style="stop-color:#b7d7d9;stop-opacity:1"
          offset="0"
          id="stop5200" />
       <stop
-         style="stop-color:#8eb8bc;stop-opacity:1"
+         style="stop-color:#89b3b7;stop-opacity:1"
          offset="1"
          id="stop5202" />
     </linearGradient>
@@ -492,7 +492,7 @@
        fx="9855.4238"
        fy="7370.8618"
        r="16811.231"
-       gradientTransform="matrix(1.7810507,-0.03902958,0.03453739,1.5760579,-7952.1549,-3861.3894)"
+       gradientTransform="matrix(1.7674742,0.00169977,-0.00151607,1.5764355,-7552.6081,-4265.578)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -504,7 +504,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
      inkscape:cx="1978.6993"
-     inkscape:cy="232.88359"
+     inkscape:cy="-445.93892"
      inkscape:document-units="px"
      inkscape:current-layer="g6725"
      showgrid="false"
