@@ -4,5 +4,14 @@ to do
 add credits:
 ------------
 
-Freepik
-http://realfavicongenerator.net
+Jumbotron: Freepik
+Favicon: http://realfavicongenerator.net
+
+Symposia:
+
+https://www.flickr.com/photos/niaid/5661846246/
+https://www.flickr.com/photos/conifer/14951771097/
+https://www.flickr.com/photos/50963439@N05/6431732431/
+https://www.flickr.com/photos/pahowho/24213490572/
+https://www.flickr.com/photos/iavi_flickr/9314255327/
+
