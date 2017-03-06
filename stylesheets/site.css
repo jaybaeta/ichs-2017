@@ -9368,13 +9368,13 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 /* SPEAKER PRESENTATION TITLES */
 
-.speaker img {
+/*.speaker img {
   transition: all 0.35s ease-in-out;
-}
+}*/
 
 .speaker > span {
   position: absolute;
-  top: 50%;
+  top: 0%;
   left: 0%;
 /*  text-align: center;*/
   /*font-size: 50px;*/
@@ -9384,12 +9384,13 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding-right: 10px;
   background-color: #DD2E2E;
   color: #FFFFFF;
+  height: 100%;
 }
 
-.speaker:hover img {
+/*.speaker:hover img {
   opacity: 0.5;
 }
-
+*/
 .speaker:hover > span {
   -webkit-transform: translate(0%, 0%);
   transform: translate(0%, 0%);
