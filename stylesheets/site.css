@@ -9366,4 +9366,45 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* SPEAKER PRESENTATION TITLES */
+
+.speaker {
+  transition: all 0.35s ease-in-out;
+}
+
+.speaker > span {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  text-align: center;
+  font-size: 50px;
+  -webkit-transform: translate(-50%, -50%) scale(0);
+  transform: translate(-50%, -50%) scale(0);
+  transition: all 300ms 0ms linear;
+  padding-right: 10px;
+}
+
+.speaker > span > a {
+  color: #FFFFFF;
+  transition: all 0.35s linear;
+}
+
+.speaker:hover img {
+  opacity: 0.5;
+}
+
+.speaker:hover > span {
+  -webkit-transform: translate(-50%, -50%) scale(1);
+  transform: translate(-50%, -50%) scale(1);
+  transition: all 300ms 100ms linear;
+}
+
+.speaker > span > a:hover {
+  color: #2D2D2D;
+}
+
+
+
+
+
 /*# sourceMappingURL=bootstrap.css.map */
