@@ -2761,14 +2761,14 @@ fieldset[disabled] a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #e56d6d;
-  border-color: #e56d6d;
+  background-color: #e14b4b;
+  border-color: #e14b4b;
 }
 
 .btn-info:hover {
   color: #fff;
-  background-color: #df4040;
-  border-color: #de3636;
+  background-color: #dd2e2e;
+  border-color: #db2525;
 }
 
 .btn-info:focus, .btn-info.focus {
