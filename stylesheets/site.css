@@ -9391,7 +9391,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 */
 .speaker:hover > span {
-  /*display: block;*/
+  display: block;
 /*  -webkit-transform: translate(0%, 0%);
   transform: translate(0%, 0%);*/
   transition: all 500ms linear;
