@@ -9378,11 +9378,12 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   left: 0%;
 /*  text-align: center;*/
   /*font-size: 50px;*/
-  -webkit-transform: translate(-50%, 0%);
-  transform: translate(-50%, 0%);
+  -webkit-transform: translate(-100%, 0%);
+  transform: translate(-100%, 0%);
   transition: all 300ms 0ms linear;
   padding-right: 10px;
   background-color: #DD2E2E;
+  color: #FFFFFF;
 }
 
 .speaker:hover img {
@@ -9390,8 +9391,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 
 .speaker:hover > span {
-  -webkit-transform: translate(-50%, 0%);
-  transform: translate(-50%, 0%);
+  -webkit-transform: translate(0%, 0%);
+  transform: translate(0%, 0%);
   transition: all 300ms 100ms linear;
 }
 
