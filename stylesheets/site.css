@@ -9366,37 +9366,4 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* SPEAKER PRESENTATION TITLES */
-
-/*.speaker img {
-  transition: all 0.35s ease-in-out;
-}*/
-
-.speaker > span {
-  display: none;
-  position: absolute;
-  width: 0%;
-/*  text-align: center;*/
-  /*font-size: 50px;*/
-  -/*webkit-transform: translate(-100%, 0%);
-  transform: translate(-100%, 0%);*/
-  transition: all 500ms linear;
-  background-color: #DD2E2E;
-  color: #FFFFFF;
-  height: 200px;
-}
-
-/*.speaker:hover img {
-  opacity: 0.5;
-}
-*/
-.speaker:hover > span {
-  display: block;
-/*  -webkit-transform: translate(0%, 0%);
-  transform: translate(0%, 0%);*/
-  transition: all 500ms linear;
-  width: 100%;
-  padding: 30px 15px 15px 15px;
-}
-
 /*# sourceMappingURL=bootstrap.css.map */
