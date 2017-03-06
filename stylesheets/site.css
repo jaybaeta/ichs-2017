@@ -9373,10 +9373,11 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }*/
 
 .speaker > span {
-  display: none;
+  /*display: none;*/
   position: absolute;
   top: 0%;
   left: 0%;
+  width: 0%;
 /*  text-align: center;*/
   /*font-size: 50px;*/
   -/*webkit-transform: translate(-100%, 0%);
@@ -9393,10 +9394,11 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 */
 .speaker:hover > span {
-  display: block;
+  /*display: block;*/
 /*  -webkit-transform: translate(0%, 0%);
   transform: translate(0%, 0%);*/
   transition: all 300ms linear;
+  width: 100%;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
