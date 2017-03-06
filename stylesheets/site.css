@@ -402,12 +402,12 @@ blockquote {
 }
 
 a {
-  color: #0275d8;
+  color: #DD2E2E;
   text-decoration: none;
 }
 
 a:focus, a:hover {
-  color: #014c8c;
+  color: #A41A1A;
 }
 
 a:not([href]):not([tabindex]) {
@@ -2707,8 +2707,8 @@ fieldset[disabled] a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #175fa9;
-  border-color: #155aa1;
+  background-color: #A41A1A;
+  border-color: #9b1919;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -6107,7 +6107,7 @@ button.close {
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
-  background-color: #1b69b9 !important;
+  background-color: #A41A1A !important;
 }
 
 .bg-success {
