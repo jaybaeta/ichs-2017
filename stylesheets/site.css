@@ -9368,7 +9368,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 /* SPEAKER PRESENTATION TITLES */
 
-.speaker {
+.speaker img {
   transition: all 0.35s ease-in-out;
 }
 
@@ -9384,11 +9384,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding-right: 10px;
 }
 
-.speaker > span > a {
-  color: #FFFFFF;
-  transition: all 0.35s linear;
-}
-
 .speaker:hover img {
   opacity: 0.5;
 }
@@ -9398,13 +9393,5 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   transform: translate(-50%, -50%) scale(1);
   transition: all 300ms 100ms linear;
 }
-
-.speaker > span > a:hover {
-  color: #2D2D2D;
-}
-
-
-
-
 
 /*# sourceMappingURL=bootstrap.css.map */
