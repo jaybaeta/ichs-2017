@@ -9386,7 +9386,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding-right: 10px;
   background-color: #DD2E2E;
   color: #FFFFFF;
-  height: 100%;
+  height: 200px;
 }
 
 /*.speaker:hover img {
