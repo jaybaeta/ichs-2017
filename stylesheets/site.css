@@ -9374,6 +9374,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 .speaker > span {
   position: absolute;
+  display: block;
   top: 0%;
   left: 0%;
 /*  text-align: center;*/
@@ -9384,7 +9385,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding-right: 10px;
   background-color: #DD2E2E;
   color: #FFFFFF;
-  height: 100%;
+  height: 200px;
 }
 
 /*.speaker:hover img {
