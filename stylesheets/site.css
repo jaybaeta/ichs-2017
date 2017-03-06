@@ -9373,6 +9373,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }*/
 
 .speaker > span {
+  display: none;
   position: absolute;
   display: block;
   top: 0%;
@@ -9393,6 +9394,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 */
 .speaker:hover > span {
+  display: block;
 /*  -webkit-transform: translate(0%, 0%);
   transform: translate(0%, 0%);*/
   transition: all 300ms 100ms linear;
