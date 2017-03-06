@@ -9375,11 +9375,11 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 .speaker > span {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 0%;
 /*  text-align: center;*/
   /*font-size: 50px;*/
-  -webkit-transform: translate(-50%, -50%) scale(0);
-  transform: translate(-50%, -50%) scale(0);
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
   transition: all 300ms 0ms linear;
   padding-right: 10px;
   background-color: #DD2E2E;
@@ -9390,8 +9390,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 
 .speaker:hover > span {
-  -webkit-transform: translate(-50%, -50%) scale(1);
-  transform: translate(-50%, -50%) scale(1);
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
   transition: all 300ms 100ms linear;
 }
 
