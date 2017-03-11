@@ -6119,11 +6119,11 @@ a.bg-success:focus, a.bg-success:hover {
 }
 
 .bg-info {
-  background-color: #4bacda !important;
+  background-color: #e25656 !important;
 }
 
 a.bg-info:focus, a.bg-info:hover {
-  background-color: #2a94c6 !important;
+  background-color: #e25656 !important;
 }
 
 .bg-warning {
