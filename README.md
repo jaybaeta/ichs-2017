@@ -8,7 +8,7 @@ This is the website for the International Conference on Health Sciences 2017, ho
 
 ### Development
 
-+ Developed by [@jaybaeta](https://github.com/jaybaeta), except for content for the Computer Symposium, which is by the [Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada](http://mipa.ugm.ac.id/fix/?lang=en)
++ Developed by [@jaybaeta](https://github.com/jaybaeta)
 + Built using [Middleman](https://github.com/middleman/middleman)
 + Based on [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
 
