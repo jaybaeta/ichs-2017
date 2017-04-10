@@ -6,7 +6,7 @@ This is the website for the International Conference on Health Sciences 2017, ho
 
 ## Credits
 
-## Contributors
+### Contributors
 
 + [@jaybaeta](https://github.com/jaybaeta)
 + [@tikadyota](https://github.com/tikadyota)
