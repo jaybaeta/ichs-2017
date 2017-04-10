@@ -6,9 +6,13 @@ This is the website for the International Conference on Health Sciences 2017, ho
 
 ## Credits
 
+## Contributors
+
++ [@jaybaeta](https://github.com/jaybaeta)
++ [@tikadyota](https://github.com/tikadyota)
+
 ### Development
 
-+ Developed by [@jaybaeta](https://github.com/jaybaeta)
 + Built using [Middleman](https://github.com/middleman/middleman)
 + Based on [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
 
