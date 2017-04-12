@@ -6102,6 +6102,10 @@ button.close {
   background-color: #f7f7f7;
 }
 
+.bg-gray {
+  background-color: #fbfbfb !important;;
+}
+
 .bg-primary {
   background-color: #DD2E2E !important;
 }
