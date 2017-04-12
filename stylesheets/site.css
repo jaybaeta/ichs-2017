@@ -6098,8 +6098,18 @@ button.close {
   vertical-align: text-top !important;
 }
 
+.schedule-item{
+  border-bottom: 1px solid #e3e3f3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .bg-faded {
   background-color: #f7f7f7;
+}
+
+.bg-gray {
+  background-color: #fbfbfb !important;;
 }
 
 .bg-primary {
