@@ -6167,8 +6167,7 @@ a.bg-inverse:focus, a.bg-inverse:hover {
 }
 
 .bg-social {
-  background-color: #9EC3C6 !important;
-  opacity: 0.7;
+  background-color: rgba(158, 195, 198, 0.7) !important;
 }
 
 .border-0 {
