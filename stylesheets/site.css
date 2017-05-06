@@ -4969,20 +4969,13 @@ a.badge:focus, a.badge:hover {
   padding-left: 0;
   border-radius: 0;
 }
-.social-media{
-  padding: 10px 60px 10px 10px;
-  text-decoration: none;
-  color: white;
-  font-weight: bold;
-  display: block;
-   
-  border-left: 60px solid transparent;
-  border-bottom: 60px solid #DD2E2E; 
-   
-  height: 0;
-  line-height: 76px;
 
+.social-media-tab {
+    background: #9EC3C6; 
+    opacity: 0.7;
+    padding: 7rem 7rem;
 }
+
 .alert {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
