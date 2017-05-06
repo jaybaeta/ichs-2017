@@ -4971,8 +4971,8 @@ a.badge:focus, a.badge:hover {
 }
 
 .social-media-tab {
-    background: #9EC3C6; 
-    opacity: 0.7;
+/*    background: #9EC3C6; 
+    opacity: 0.7;*/
     padding: 7rem 7rem;
 }
 
@@ -6164,6 +6164,11 @@ a.bg-danger:focus, a.bg-danger:hover {
 
 a.bg-inverse:focus, a.bg-inverse:hover {
   background-color: #101112 !important;
+}
+
+.bg-social {
+  background-color: #9EC3C6 !important;
+  opacity: 0.7;
 }
 
 .border-0 {
