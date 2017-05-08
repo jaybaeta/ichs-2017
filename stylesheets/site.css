@@ -9406,4 +9406,14 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   color: #DD2E2E;
 }
 
+/* CONFERENCE PROGRAM */
+
+.program-speaker-img {
+  width: 100%; 
+  margin: auto; 
+  vertical-align: text-top; 
+  border-radius: 50%
+}
+
+
 /*# sourceMappingURL=bootstrap.css.map */
