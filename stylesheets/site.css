@@ -9391,25 +9391,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 /* SOCIAL MEDIA ROW */
 
-/*.social-media-row {
-    padding: 7rem 7rem;
-}
-
-.social-media-row a {
-  font-size: 1.5rem; 
-  white-space:nowrap;
-  color: #292B2C;
-}
-
-.social-media-row a:hover {
-  color: #DD2E2E;
-}
-
-.bg-social-media-row {
-  background-color: rgba(158, 195, 198, 0.7) !important;
-  border-top: 1px solid rgba(153, 190, 193, 0.7);
-}*/
-
 .social-media-row {
   background-color: rgba(158, 195, 198, 0.7) !important;
   border-top: 1px solid rgba(153, 190, 193, 0.7);
