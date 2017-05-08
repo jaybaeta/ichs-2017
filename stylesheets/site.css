@@ -4970,12 +4970,6 @@ a.badge:focus, a.badge:hover {
   border-radius: 0;
 }
 
-.social-media-tab {
-/*    background: #9EC3C6; 
-    opacity: 0.7;*/
-    padding: 7rem 7rem;
-}
-
 .alert {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -6164,10 +6158,6 @@ a.bg-danger:focus, a.bg-danger:hover {
 
 a.bg-inverse:focus, a.bg-inverse:hover {
   background-color: #101112 !important;
-}
-
-.bg-social {
-  background-color: rgba(158, 195, 198, 0.7) !important;
 }
 
 .border-0 {
@@ -9360,6 +9350,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FOOTER */
+
 .footer { /* Commenting out sticky until needed because of background colour bug */
   /*position: absolute;*/ 
   /*bottom: 0;*/
@@ -9369,6 +9361,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   border-top: 1px solid #f4eeee;
   font-size: 90%;
 }
+
+/* COLUMNS OF RED AREA */
 
 @media (min-width: 992px) {
   .intro-left-col {
@@ -9386,11 +9380,49 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FLOATED CARDS WITHIN CONTENT */
+
 @media (max-width: 575px) {
   .card-float {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+
+/* SOCIAL MEDIA ROW */
+
+/*.social-media-row {
+    padding: 7rem 7rem;
+}
+
+.social-media-row a {
+  font-size: 1.5rem; 
+  white-space:nowrap;
+  color: #292B2C;
+}
+
+.social-media-row a:hover {
+  color: #DD2E2E;
+}
+
+.bg-social-media-row {
+  background-color: rgba(158, 195, 198, 0.7) !important;
+  border-top: 1px solid rgba(153, 190, 193, 0.7);
+}*/
+
+.social-media-row {
+  background-color: rgba(158, 195, 198, 0.7) !important;
+  border-top: 1px solid rgba(153, 190, 193, 0.7);
+}
+
+.social-media-row a {
+  font-size: 1.5rem; 
+  white-space:nowrap;
+  color: #292B2C;
+}
+
+.social-media-row a:hover {
+  color: #DD2E2E;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
