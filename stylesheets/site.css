@@ -4969,20 +4969,7 @@ a.badge:focus, a.badge:hover {
   padding-left: 0;
   border-radius: 0;
 }
-.social-media{
-  padding: 10px 60px 10px 10px;
-  text-decoration: none;
-  color: white;
-  font-weight: bold;
-  display: block;
-   
-  border-left: 60px solid transparent;
-  border-bottom: 60px solid #DD2E2E; 
-   
-  height: 0;
-  line-height: 76px;
 
-}
 .alert {
   padding: 0.75rem 1.25rem;
   margin-bottom: 1rem;
@@ -9363,6 +9350,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FOOTER */
+
 .footer { /* Commenting out sticky until needed because of background colour bug */
   /*position: absolute;*/ 
   /*bottom: 0;*/
@@ -9372,6 +9361,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   border-top: 1px solid #f4eeee;
   font-size: 90%;
 }
+
+/* COLUMNS OF RED AREA */
 
 @media (min-width: 992px) {
   .intro-left-col {
@@ -9389,11 +9380,40 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FLOATED CARDS WITHIN CONTENT */
+
 @media (max-width: 575px) {
   .card-float {
     width: 100% !important;
     margin-left: 0 !important;
   }
 }
+
+/* SOCIAL MEDIA ROW */
+
+.social-media-row {
+  background-color: rgba(158, 195, 198, 0.7) !important;
+  border-top: 1px solid rgba(153, 190, 193, 0.7);
+}
+
+.social-media-row a {
+  font-size: 1.5rem; 
+  white-space:nowrap;
+  color: #292B2C;
+}
+
+.social-media-row a:hover {
+  color: #DD2E2E;
+}
+
+/* CONFERENCE PROGRAM */
+
+.program-speaker-img {
+  width: 100%; 
+  margin: auto; 
+  vertical-align: text-top; 
+  border-radius: 50%
+}
+
 
 /*# sourceMappingURL=bootstrap.css.map */
