@@ -6104,11 +6104,21 @@ button.close {
   vertical-align: text-top !important;
 }
 
+@media (max-width: 500px) {
+  .program-title{
+    font-size: 5.3vw !important;
+  }  
+}
+
+.program-title{
+  font-size: 1.5rem;
+}  
+
 .schedule-item{
   border-bottom: 1px solid #e3e3f3;
   padding-top: 20px;
   padding-bottom: 20px;
-}
+  }
 
 .bg-faded {
   background-color: #f7f7f7;
