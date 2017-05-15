@@ -41,7 +41,7 @@ This is the website for the International Conference on Health Sciences 2017, ho
 
 All symposia images are licensed under the Creative Commons via Flickr.
 
-+ Emerging and reemerging infectious disease: [NIAID](https://www.flickr.com/photos/niaid/5661846246/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Emerging and reemerging infectious disease: [ZEISS Microscopy](https://www.flickr.com/photos/zeissmicro/14256046417/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 + Tropical infectious disease: [Nagesh Jayaraman](https://www.flickr.com/photos/howard_roark/7550806512/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 + Neglected infectious disease and sexually transmitted disease (STD): [Abdul "B.as.it" IM](https://www.flickr.com/photos/50963439@N05/6431732431/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 + Drug resistance (antimicroba, antivirus): [Pan American Health Organization PAHO](https://www.flickr.com/photos/pahowho/24213490572/); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
