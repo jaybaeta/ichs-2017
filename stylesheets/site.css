@@ -3241,7 +3241,7 @@ tbody.collapse.show {
 
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #636c72;
-  cursor: none;
+  cursor: default;
   background-color: transparent;
 }
 
@@ -9394,6 +9394,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 .social-media-row {
   background-color: rgba(158, 195, 198, 0.7) !important;
   border-top: 1px solid rgba(153, 190, 193, 0.7);
+  margin-right: -16px;
+  margin-left: -16px;
 }
 
 .social-media-row a {
