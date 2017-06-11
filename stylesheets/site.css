@@ -3240,8 +3240,13 @@ tbody.collapse.show {
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
-  color: #636c72;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+
+.dropdown-item.heading {
   cursor: default;
+  color: #636c72;
   background-color: transparent;
 }
 
