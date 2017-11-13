@@ -47,6 +47,17 @@ All symposia images are licensed under the Creative Commons via Flickr.
 + Drug resistance (antimicroba, antivirus): [Pan American Health Organization PAHO](https://www.flickr.com/photos/pahowho/24213490572/); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 + Vaccine related (mapping disease, vaccine development, diagnosis): [AIDSVaccine](https://www.flickr.com/photos/iavi_flickr/9314255327/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
+### Images in publications page(s)
+
++ Acta Medica Indonesiana: [Prefeitura de Itapevi](https://www.flickr.com/photos/prefeituradeitapevi/33913091775/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Belitung Nursing Journal: [Pascal](https://www.flickr.com/photos/pasukaru76/5967748825/); [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
++ Global Health Action: [JULIE](https://www.flickr.com/photos/julieleuthold/7521645058/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Indonesian Biomedical Journal: [Hanna Sörensson](https://www.flickr.com/photos/hasor/13721829855/); [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
++ Indonesian Journal of Chemistry: [University of Michigan School for Environment and Sustainability](https://www.flickr.com/photos/snre/6800805732/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Indonesian Journal of Pharmacy: [mararie](https://www.flickr.com/photos/mararie/5584945661/); [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
++ Journal of the Medical Sciences: [Ed Uthman](https://www.flickr.com/photos/euthman/5300722946/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Journal of the Medical Sciences: [Pan American Health Organization PAHO](https://www.flickr.com/photos/pahowho/9401208435/); [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+
 ## License
 
 © 2017 Joaquim Baeta under the MIT License.
