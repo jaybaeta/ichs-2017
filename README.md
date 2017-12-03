@@ -56,7 +56,7 @@ All symposia images are licensed under the Creative Commons via Flickr.
 + Indonesian Journal of Chemistry: [University of Michigan School for Environment and Sustainability](https://www.flickr.com/photos/snre/6800805732/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 + Indonesian Journal of Pharmacy: [mararie](https://www.flickr.com/photos/mararie/5584945661/); [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 + Journal of the Medical Sciences: [Ed Uthman](https://www.flickr.com/photos/euthman/5300722946/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-+ Journal of the Medical Sciences: [Pan American Health Organization PAHO](https://www.flickr.com/photos/pahowho/9401208435/); [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
++ Kobe Journal of Medical Sciences: [Pan American Health Organization PAHO](https://www.flickr.com/photos/pahowho/9401208435/); [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
 
 ## License
 
